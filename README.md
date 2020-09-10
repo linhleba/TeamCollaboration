@@ -1,4 +1,4 @@
-# Visual Programming Project
+# Algorithm Flowchart Project
 
 
 # About project
@@ -14,5 +14,6 @@ Members included:
 # Acknowledgements
 Thank you Mr. Nguyen Tan Toan for accompanying and guiding the group to implement the project.
 
-
+# Feedbacks
+Create feedbacks in Issues, any feedback you give will help the project improve daily. Thank you for your help
 
