@@ -13,8 +13,5 @@ Group is included 3 members:
 # Acknowledgements
 Thank you Mr. Nguyen Tan Toan for accompanying and guiding the group to implement the project.
 
-----
-#Errors
-1.
-2.
+
 
