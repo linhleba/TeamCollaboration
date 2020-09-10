@@ -2,7 +2,7 @@
 Team Collaboration
 
 Demo Team project included:
-1. Linh Le Ba
+deleted sth
 ----
 #Errors
 1.
