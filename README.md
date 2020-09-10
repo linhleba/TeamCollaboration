@@ -2,7 +2,8 @@
 Team Collaboration
 
 Demo Team project included:
-deleted sth
+wtf ???
+
 ----
 #Errors
 1.
